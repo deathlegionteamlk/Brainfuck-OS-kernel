@@ -117,3 +117,7 @@ PID    NAME                 STATE      STEPS
 1      /bin/fibonacci.bf    running    0
 bfsh:/> wait 1
 ```
+
+<!-- DL Code Badge -->
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
